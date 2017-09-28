@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">日本語  =^.^=</string>
+    <string name="country">Japan</string>
+    <string name="google_search">Google 検索</string>
+    <string name="google_map">Googleマップ</string>
+</resources>
